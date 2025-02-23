@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneradorContraseñas", "GeneradorContraseñas\GeneradorContraseñas.csproj", "{B2E91DD1-C6BE-40AC-A480-B35C8B301C9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palíndromos", "Palíndromos\Palíndromos.csproj", "{A8B11F76-8E95-4246-989F-4894C44110A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueDiaNaciste", "QueDiaNaciste\QueDiaNaciste.csproj", "{12C77752-7320-478B-8874-601151F706A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromoSol2", "PalindromoSol2\PalindromoSol2.csproj", "{963106DE-2C54-455C-838B-996D98577DFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2E91DD1-C6BE-40AC-A480-B35C8B301C9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2E91DD1-C6BE-40AC-A480-B35C8B301C9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2E91DD1-C6BE-40AC-A480-B35C8B301C9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2E91DD1-C6BE-40AC-A480-B35C8B301C9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8B11F76-8E95-4246-989F-4894C44110A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8B11F76-8E95-4246-989F-4894C44110A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8B11F76-8E95-4246-989F-4894C44110A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8B11F76-8E95-4246-989F-4894C44110A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12C77752-7320-478B-8874-601151F706A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12C77752-7320-478B-8874-601151F706A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12C77752-7320-478B-8874-601151F706A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12C77752-7320-478B-8874-601151F706A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{963106DE-2C54-455C-838B-996D98577DFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{963106DE-2C54-455C-838B-996D98577DFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{963106DE-2C54-455C-838B-996D98577DFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{963106DE-2C54-455C-838B-996D98577DFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
